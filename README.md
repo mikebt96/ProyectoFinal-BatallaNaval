@@ -2,8 +2,6 @@
 
 Un proyecto clásico de "Batalla Naval" (Battleship) escrito en C puro. Este repositorio es una recreación y mejora de mi proyecto final para la materia de **Fundamentos de Programación** en la **UNAM** (original de 2018).
 
-El objetivo principal es servir como un "calentamiento" para refrescar habilidades fundamentales en C, incluyendo el manejo de arrays 2D, funciones, entrada/salida de consola y lógica de juego básica.
-
 ## 📸 Demo de Juego
 --- LUEGO AGREAGRÉ ALGO AQUÍ
 
